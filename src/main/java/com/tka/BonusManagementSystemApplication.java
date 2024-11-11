@@ -8,6 +8,9 @@ public class BonusManagementSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BonusManagementSystemApplication.class, args);
+	
+		System.out.println("Application Started...");
+	
 	}
 
 }
